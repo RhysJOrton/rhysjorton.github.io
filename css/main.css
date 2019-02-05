@@ -4,11 +4,11 @@ body {
 }
 
 table, th, td {
-	border: 2px solid black;
+	border: 2px solid grey;
 	border-collapse: collapse;
 }
 
 th, td {
 	padding: 10px;
-	text-align: left;
+	text-align: center;
 }
